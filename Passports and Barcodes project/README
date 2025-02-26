@@ -1,0 +1,2 @@
+//barcode_checker: reads barcodes from barcodes.txt and writes the valid barcodes into valid_barcodes.txt
+//passport_checker2: reads passports from scanned_passports and writes the valid passports into valid_passports2.txt
