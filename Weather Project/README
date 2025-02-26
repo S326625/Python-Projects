@@ -1,0 +1,1 @@
+//weather_data reads the unsorted data from WeatherDataCLL.csv and analyzes it to determine the Mean average daily temperature, Mean relative humidity, Mean daily wind speed, and Percentage of days with precipitation  
